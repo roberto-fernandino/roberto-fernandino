@@ -1,3 +1,6 @@
+## 📫 Find me
+- 📧 [Email](mailto:romfernandino@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/roberto-fernandino-056013296/?locale=en_US)
 
 <div style="display: flex; justify-content: space-between;">
   <img style="width: 59%; height: 70%;" src="https://github-readme-stats.vercel.app/api?username=roberto-fernandino&show_icons=true&theme=dark">
