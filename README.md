@@ -2,10 +2,10 @@
 
 </br>
 
-- 🔧 Backend Developer.
-- 💡 I’m curious about... Network, Computer Science, Operating Systems & CyberSecurity.
-- 📖 I’m currently learning ... Containers, Heroku, low-level programming, Cloud.
-- ❄️ I’m looking to collaborate on... New Architectures and technologies.
+- 🔧 Backend Software Engineer.
+- 💡 I’m currently Working... Machine Learning, Low Level Programming, Neural Networks, Cloud, Web Development.
+- 📖 I’m currently learning ... CyberSecurity.
+- ❄️ I’m looking to collaborate on... New Architectures, Operating Systems.
 
 <hr>
 </br>
