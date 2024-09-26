@@ -3,9 +3,8 @@
 </br>
 
 - 🔧 Backend Software Engineer.
-- 💡 I’m currently Working... Machine Learning, Low Level Programming, Neural Networks, Cloud, Web Development.
-- 📖 I’m currently learning ... CyberSecurity.
-- ❄️ I’m looking to collaborate on... New Architectures, Operating Systems.
+- 💡 Currently Working with... Web3, Blockchains, Machine Learning, Low Level Programming, Neural Networks, Cloud, Web Development.
+
 
 <hr>
 </br>
