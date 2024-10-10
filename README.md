@@ -10,7 +10,7 @@
 </br>
 
 ## 📫 Find me
-- 📧 [Email](mailto:romfernandino@gmail.com)
+- 📧 [Email](mailto:roberto.fernandino@icloud.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/roberto-fernandino-056013296/?locale=en_US)
 
 <div style="display: flex; flex-direction: column; justify-content: center;">
