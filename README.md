@@ -36,6 +36,7 @@
 #### Tools
 
 <div style="display inline-block">
+  <img align="center" height="50" widht="60" src="https://icongr.am/devicon/nginx-original.svg?size=148&color=currentColor">
   <img align="center" alt="" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
   <img align="center" alt="" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'>
   <img align="center" alt="" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg'>
