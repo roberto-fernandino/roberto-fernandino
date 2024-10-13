@@ -3,7 +3,7 @@
 </br>
 
 - 🔧 Backend Software Engineer.
-- 💡 Currently Working with... Web3, Blockchains, Machine Learning, Low Level Programming, Neural Networks, Cloud, Web Development.
+- 💡 Currently Working with... Web3, Blockchain, Machine Learning, Low Level Programming, Neural Networks, Cloud, Web Development.
 
 
 <hr>
