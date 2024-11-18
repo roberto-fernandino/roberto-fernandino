@@ -42,6 +42,7 @@
   <img align="center" alt="" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg'>
   <img align="center" alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
   <img align="center" alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" alt="" height"50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
                  
 </div>
 
@@ -51,6 +52,7 @@
   <img align="center" alt="" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg'>
   <img align="center" alt="" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
   <img align="center" alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+          
           
 </div>
 
